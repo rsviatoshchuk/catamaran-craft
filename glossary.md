@@ -3,6 +3,15 @@
 Взято из книги *Крючков Ю.С., Лапин В.И. "Парусные катамараны"* (1963), с. 115
 
 
+## Сокращения
+
+- ДП - диаметральная плоскость
+
+![alt text](https://github.com/rsviatoshchuk/catamaran-craft/blob/master/main_plaines.png "Плоскости")
+
+- ГВЛ - грузовая ватерлиния
+
+
 ## Главные размерения
 
 ![alt text](https://github.com/rsviatoshchuk/catamaran-craft/blob/master/sizes.png "Размеры")
