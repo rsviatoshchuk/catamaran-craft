@@ -7,7 +7,7 @@
 
 - ДП - диаметральная плоскость
 
-![alt text](https://github.com/rsviatoshchuk/catamaran-craft/blob/master/main_plaines.jpg "Плоскости")
+![alt text](https://github.com/rsviatoshchuk/catamaran-craft/blob/master/main_planes.jpg "Плоскости")
 
 - ГВЛ - грузовая ватерлиния
 
